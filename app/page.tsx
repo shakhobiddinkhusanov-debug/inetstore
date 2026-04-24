@@ -1,4 +1,4 @@
-export default function InetstoreHomepage()
+export default function InetstoreHomepage() {
   const categories = [
     "Роутеры",
     "Коммутаторы",
