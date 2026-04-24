@@ -1,4 +1,4 @@
-export default function ProductPage()
+export default function InetstoreHomepage()
   const categories = [
     "Роутеры",
     "Коммутаторы",
