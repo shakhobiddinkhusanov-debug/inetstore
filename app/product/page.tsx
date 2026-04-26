@@ -1,7 +1,8 @@
 export default function ProductPage() {
   return (
-    <div style={{ padding: 40 }}>
+    <main style={{ padding: "40px" }}>
       <h1>Product page работает</h1>
-    </div>
+      <p>Карточка товара открылась.</p>
+    </main>
   );
 }
